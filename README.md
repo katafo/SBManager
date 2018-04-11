@@ -1,5 +1,5 @@
 # SBManager
-Manage all view controllers from storyboards by protocol &amp; generic 
+Manage all view controllers from storyboards by generic
 
 # How to use
 
@@ -14,7 +14,7 @@ enum SBManager: String {
 }
 
 ```
-2. Set storyboard id for view controller in Storyboard. Storyboard ID must have the same name as View Controller.
+2. Set Storyboard ID for View Controller in Storyboard. Storyboard ID must have the same name as View Controller.
 
 <img src="https://github.com/katafo/SBManager/blob/master/screenshot.png" />
 
